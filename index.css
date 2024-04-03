@@ -1,0 +1,88 @@
+.principal {
+    background-image: url("img/Background.png");
+}
+<body>
+    <section class="container principal">
+        <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
+        <img src="img/Combo.png" alt="O combo+ é a junção do alura+ e o alura língua">
+    </section>
+</body>
+.container {
+    height: 100vh;
+}
+.principal {
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.principal {
+    background-image: url(“img/Background.png”);
+    }
+    .container__botao {
+        background-color: var(--botao-azul);
+        border-radius: 5px;
+        padding: 1em;
+        color: var(--branco-principal);
+        display: block;
+    }.container {
+        height: 100vh;
+        display: grid;
+    }
+    
+    .botao_secundario {
+        background-color: transparent;
+        border: 2px solid var(--branco-principal)
+    }
+    .container__imagem {
+        margin: 1em 0 2em 0;
+    }
+    .container__botao {
+        background-color: var(--botao-azul);
+        border-radius: 5px;
+        padding: 1em;
+        color: var(--branco-principal);
+        display: block;
+        text-decoration: none;
+        margin-bottom: 1em;
+    }
+    .container__caixa {
+        margin: 0 6em;
+    }.principal {
+        background-image: url("img/Background.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        align-items: center;
+        text-align: center;
+    }
+    .secundario__imagem {
+        width: 80%;
+    }
+    .secundario {
+        align-items: center;
+        margin: 0 10em;
+    }
+    .descricao__titulo {
+        font-weight: 700;
+        font-size: 48px;
+        color: var(--branco-principal);
+        margin-bottom: 0.1em;
+    }
+    .descricao__texto {
+        color: var(--cinza-secundario);
+    }
+      
+    .secundario__botao {
+        display: inline-block;
+        margin-top: 1em;
+    }
+    .container__descricao {
+        padding: 2em;
+    }
+       .container__botao {
+    background-color: #5CBAE6;
+    color: black;
+    display: inline-block;
+    margin-top: 1em;
+}
+ 
+    
